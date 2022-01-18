@@ -1,0 +1,20 @@
+# ninja log v5
+0	273	1642523163428417280	CMakeFiles/project.dir/main.cpp.o	7a84c0ff40733c91
+0	15	1642524746412864808	build.ninja	ea5a2a946513e911
+192	242	1642523223009781885	project	cefca2f5b1bce4d9
+1	322	1642523163476415086	CMakeFiles/project.dir/Position.cpp.o	bbb1b09109a5f688
+1	277	1642523163432417098	CMakeFiles/project.dir/Player.cpp.o	ca335f33e4bac181
+0	192	1642523222957784112	CMakeFiles/project.dir/Match.cpp.o	2704e2a3fcd9ad91
+1	333	1642523163488414538	CMakeFiles/project.dir/Movement.cpp.o	7225e18b87ef69d9
+1	306	1642523163460415818	CMakeFiles/project.dir/Board.cpp.o	d8cd3a765963d41e
+2	274	1642524747600840351	CMakeFiles/project.dir/Player.cpp.o	86de30aa2a4c8bf1
+0	277	1642524747604840269	CMakeFiles/project.dir/main.cpp.o	7f2912b8943ff19c
+2	289	1642524747616840023	CMakeFiles/project.dir/Board.cpp.o	5df5e5a96268101b
+1	293	1642524747620839939	CMakeFiles/project.dir/Match.cpp.o	13e8fee6111c5108
+1	309	1642524747636839611	CMakeFiles/project.dir/Position.cpp.o	184bd5028ae9d002
+1	324	1642524747652839282	CMakeFiles/project.dir/Movement.cpp.o	2b486544f2051d46
+324	379	1642524747704838210	project	cefca2f5b1bce4d9
+0	215	1642524790659956065	CMakeFiles/project.dir/Player.cpp.o	86de30aa2a4c8bf1
+215	277	1642524790719954834	project	cefca2f5b1bce4d9
+0	190	1642524798563794190	CMakeFiles/project.dir/main.cpp.o	7f2912b8943ff19c
+191	240	1642524798615793125	project	cefca2f5b1bce4d9

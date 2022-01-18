@@ -1,0 +1,48 @@
+#root{
+    display: flex;
+    width: 900px;
+    flex-wrap: wrap;
+}
+.square{
+    height: 98px;
+    width: 98px;
+    border: 1px solid saddlebrown;
+}
+.white{
+    background: white;
+}
+.black{
+    background: saddlebrown;
+}
+.white-draught{
+    background-image: url("./white-dot-svg.png");
+    background-position: center center;
+    background-size: cover;
+}
+.black-draught{
+    background-image: url("./black-dot-svg.png");
+    background-position: center center;
+    background-size: cover;
+}
+.white-draught-K{
+    background-image: url("./white-dot-svg-K.png");
+    background-position: center center;
+    background-size: cover;
+}
+.black-draught-K{
+    background-image: url("./black-dot-svg-K.png");
+    background-position: center center;
+    background-size: cover;
+}
+
+
+.text{
+    border: 1px solid black;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#turn{
+    color: #f34b7d;
+}
